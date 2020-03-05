@@ -1,2 +1,2 @@
-# video_learn
+# x_player
 Qt + FFMpeg
